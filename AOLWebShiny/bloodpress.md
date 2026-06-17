@@ -1,0 +1,3 @@
+#### 3. High Blood Preasure
+Hypertension is a major risk factor for heart failure. That's because the force pushing on the walls of your arteries as blood moves through them is too strong. 
+That pressure hurts your arteries and makes tiny tears in them that can turn into scar tissue, which makes it easier for cholesterol, fat, and other things to build up. That causes your vessels to narrow and stiffen.

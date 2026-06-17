@@ -1,0 +1,2 @@
+#### 5. Heart Rate
+Most of the patients with a heart disease have a low maximum heart rate, low max heart rate is strongly associated with having heart disease. A slow heart rate, or bradycardia, can sometimes be a sign of underlying heart problems or heart disease.

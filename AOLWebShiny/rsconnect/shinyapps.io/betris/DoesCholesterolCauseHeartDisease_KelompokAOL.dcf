@@ -1,0 +1,12 @@
+name: DoesCholesterolCauseHeartDisease_KelompokAOL
+title: DoesCholesterolCauseHeartDisease_KelompokAOL
+username: betris
+account: betris
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14910113
+bundleId: 10428032
+url: https://betris.shinyapps.io/DoesCholesterolCauseHeartDisease_KelompokAOL/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
